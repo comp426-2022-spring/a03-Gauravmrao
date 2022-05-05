@@ -1,0 +1,23 @@
+{
+  "name": "a03-gauravmrao",
+  "version": "0.1.0",
+  "description": "Creating APIs using Express.js! Build an API to flip some coins.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a03-Gauravmrao.git"
+  },
+  "author": "@gauravmrao",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a03-Gauravmrao/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a03-Gauravmrao#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "minimist": "^1.2.6"
+  }
+}
